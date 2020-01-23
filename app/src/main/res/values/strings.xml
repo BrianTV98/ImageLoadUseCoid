@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ImageLoadUsingCoil</string>
+    <string name="Regular">Regular</string>
+    <string name="roundCorrect">Rounded Correct</string>
+    <string name="Circle">Circle</string>
+    <string name="GrayScale">Gray Scale</string>
+    <string name="Blur">Blur</string>
+    <string name="MutltiTransformation">Multi Transformation</string>
+</resources>
